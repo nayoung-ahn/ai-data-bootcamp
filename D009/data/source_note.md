@@ -1,1 +1,1 @@
-데이터 출처 URL: https://www.kaggle.com/datasets/ziya07/intelligent-manufacturing-dataset
+- 데이터 출처 URL: https://www.kaggle.com/datasets/ziya07/intelligent-manufacturing-dataset
